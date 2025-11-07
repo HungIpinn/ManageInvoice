@@ -1,0 +1,46 @@
+# Giữ thư mục .git ở ngoài cùng, không cần thay đổi
+.git/
+
+# Thư mục và tệp được Visual Studio và .NET tạo ra
+
+## Thư mục và Tệp Nhị phân/Tạm thời
+[Bb]in/
+[Oo]bj/
+*.pdb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vshost.*
+
+## Thư mục giải pháp (Solution)
+.vs/
+*.opensdf
+*.docset
+*.vsp
+
+## Gói NuGet
+packages/
+# Nếu bạn dùng PackageReference trong .csproj, gói được lưu ở đây (thường ở ngoài thư mục repo)
+# Tuy nhiên, nếu dùng kiểu cũ (packages.config), thì packages/ là cần thiết
+
+## Các Tệp Cấu hình Cục bộ
+*.*proj.user
+*.resharper
+*.dotSettings.user
+appsettings*.Development.json # Thường chỉ dùng cục bộ
+appsettings.json.example # Ví dụ cấu hình
+
+# Tệp CSDL cục bộ (SQL Server LocalDB hoặc SQLite)
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Tệp Entity Framework Migration (Tùy chọn: KHÔNG BỎ qua nếu muốn theo dõi Migration)
+# Nếu bạn muốn theo dõi tất cả các tệp Migration, không cần thêm gì.
+# Nếu bạn muốn bỏ qua các tệp tạm thời của EF:
+# ef.config.json
+
+# Tệp Log
+*.log

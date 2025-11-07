@@ -1,0 +1,11 @@
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\bin\Debug\net8.0\ManageInvoice.Domain.deps.json
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\bin\Debug\net8.0\ManageInvoice.Domain.dll
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\bin\Debug\net8.0\ManageInvoice.Domain.pdb
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ManageInvoice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ManageInvoice.Domain.AssemblyInfoInputs.cache
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ManageInvoice.Domain.AssemblyInfo.cs
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ManageInvoice.Domain.csproj.CoreCompileInputs.cache
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ManageInvoice.Domain.dll
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\refint\ManageInvoice.Domain.dll
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ManageInvoice.Domain.pdb
+E:\Tran Ngoc Hung\ManageInvoice\ManageInvoice.Domain\obj\Debug\net8.0\ref\ManageInvoice.Domain.dll
