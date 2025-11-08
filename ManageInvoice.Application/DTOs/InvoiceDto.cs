@@ -1,12 +1,12 @@
-﻿using System;
+using System;
 
-namespace ManageInvoice.Domain.Entities
+namespace ManageInvoice.Application.DTOs
 {
-    public class Invoice
+    public class InvoiceDto
     {
         public Guid Id { get; set; }
         public string Number { get; set; } = string.Empty;
         public decimal Amount { get; set; }
-        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+        public DateTime CreatedAt { get; set; }
     }
 }
